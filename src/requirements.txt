@@ -1,0 +1,8 @@
+sec-edgar-downloader==5.0.2
+beautifulsoup4==4.12.3
+transformers==4.44.2
+datasets==3.0.0
+torch==2.4.1
+nltk==3.9.1
+scikit-learn==1.5.2
+tqdm==4.66.5
